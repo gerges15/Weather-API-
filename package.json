@@ -1,0 +1,25 @@
+{
+  "name": "weather-api-",
+  "version": "1.0.0",
+  "description": "A Node.js backend service to fetches and returns weather data from third-party API without relaying on our own.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerges15/Weather-API-.git"
+  },
+  "author": "Girgis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerges15/Weather-API-/issues"
+  },
+  "homepage": "https://github.com/gerges15/Weather-API-#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
