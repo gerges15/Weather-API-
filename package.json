@@ -4,7 +4,7 @@
   "description": "A Node.js backend service to fetches and returns weather data from third-party API without relaying on our own.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watch-all"
   },
   "repository": {
     "type": "git",
